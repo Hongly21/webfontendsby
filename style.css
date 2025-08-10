@@ -442,8 +442,8 @@ footer .payment {
 img:hover {
     transform: scale(1.1);
     cursor: pointer;
-    transition: 0.5s;
-=======
+    transition: 0.5s;}
+
 .menu-container {
     width: 80%;
     height: 55px;
@@ -888,5 +888,5 @@ img:hover {
     transform: scale(1.1);
     cursor: pointer;
     transition: 0.5s;
->>>>>>> c544471abd15ba51a84c56b31faa657c43f0a97f
+
 }
